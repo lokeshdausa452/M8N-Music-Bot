@@ -46,10 +46,10 @@
 > In order to avoid conflicts in your project, you must have/installed
 
 - [Python3.9](https://www.python.org/downloads/release/python-390/)
-- [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
-- [Telegram Bot Token](https://t.me/botfather)
-- [MongoDB URI](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_footprint_row_search_brand_phrase_intent_test_atlas_mobile&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=13277278264&adgroup=124506944562&gclid=EAIaIQobChMI9ITXp4-i-AIVjTgrCh224AYxEAAYASAAEgImx_D_BwE)
-- [Pyrogram String Session](https://t.me/M8N_SESSION_BOT)
+- [Telegram API Key](10778409)
+- [Telegram Bot Token](5241941860:AAHy_oGREe_aiObDn8OcL_tVX8PeYE28QL8)
+- [MongoDB URI](mongodb+srv://Anon1025:Anon1025@fallen.mujw8.mongodb.net/Fallen?retryWrites=true&w=majority)
+- [Pyrogram String Session](BQCFUOLmC0SveQe4r5O5oFALL15dqoXTSVxZiCY0QFUkdOBI_vReFXIV4TU6ChjubiaruXLw84O-f49KZiGBBGhDs9dP9RiYUX7ZC0rZYhcZofVrXoSn2JTLntKNttKQ3S7vdpdArWVsfOq162W40UpzCibo-VOmKaJyLvtJX2pXPv8M2cC2tOKjN-zJCg6CIurT2-KEdoR-4aB2xC8-sYIK0i-hkEaQmApv0zxOT0y0YgoQGyehJHSLpFEGCQMoCibrhdb3DNYZDsNDCUEORiV1ci4YW-LyGRqqgtsE-xbylW9lWUnHHqL_LxvHebWpE9LyRUA7wbPwsm2daSmHv9n4AAAAASsjm54A)
 
 
 ### 🚨 Generate String Session
@@ -63,8 +63,8 @@
 
 ## Contact & Support
 
-<a href="https://t.me/M8N_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/M8N_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/kalam_kranti"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/kalam_se"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
 
 
 ## ⚠️ Security
