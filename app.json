@@ -1,99 +1,101 @@
 {
-    "name": "M8N Music Bot",
+    "name": "BHARTI MUSIC",
     "description": "Powerful telegram's group voice chat music player. Run on python3 !!",
-    "logo": "https://telegra.ph/file/22265bda0d1d8c2b1978a.jpg",
+    "logo": "https://te.legra.ph/file/e715436ee380abcf8f6b1.jpg",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/UnknownMortal/M8N-Music-Bot",
+    "repository": "https://github.com/lokeshdausaaa/M8N-Music-Bot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
-            "description": "fill with the pyrogram session string from account",
+            "description": "BQC-vl-qDrVzrV2GKJ9qk1f2D-8jz4Vr-s_vqhVr4YWvLlfS8ilCZ4MFMFX0HYSbgUl7qcGejh6mHZDL27go0BecHffPyzt3qJIMpBHkWwScMyKD4Fi-ht64iprzNFqyVNKBFRy9A3HAnxiIFYv-mdaxvgoV5wB2VccqzpYG0Lj_RyPb9r0BfQJyVEO81laPW7PzLDnjU7R_NlsNYuzmxt83bBTIIJYJ0pYbDB_bo9sNhub5YRxyGKETThGc3nGZ7c0Nn1PdP3mycw0GZ5sCK47t7Uf1O-7qmvkkLnLQCfxqEzjpUR3lMWw-Oa9yzmiK_rGYHgaj02V_mMYWad4m3iydAAAAASsjm54A",
             "required": true
+
         },
         "OWNER_ID": {
-            "description": "fill with your telegram id as the owner of the bot",
+            "description": "1236703127",
             "required": true,
-            "value": ""
+            "value": "1236703127"
         },
         "ASSID": {
-            "description": "Fill with your music assistant's ID",
+            "description": "5018721182",
             "required": true,
-            "value": ""
+            "value": "5018721182"
+
         },
         "BG_IMG": {
-            "description": "Fill with Telegraph image Link for Thumbnail !!",
+            "description": "https://te.legra.ph/file/e715436ee380abcf8f6b1.jpg",
             "required": true,
-            "value": ""
+            "value": "https://te.legra.ph/file/e715436ee380abcf8f6b1.jpg"
         },
         "ASSNAME": {
-            "description": "Fill with your music Assistant's Name",
+            "description": "BHARTI MUSIC",
             "required": true,
-            "value": ""
+            "value": "BHARTI MUSIC"
         },
         "ASSUSERNAME": {
-            "description": "Fill with your Music Assistant's Username without @",
+            "description": "LOKESH_DAUSAA",
             "required": true,
-            "value": ""
+            "value": "LOKESH_DAUSAA"
         },
         "BOT_ID": {
-            "description": "fill with telegram id of bot",
+            "description": "5241941860",
             "required": true,
-            "value": ""
+            "value": "5241941860"
         },
         "BOT_USERNAME": {
-            "description": "fill with telegram username of bot without @",
+            "description": "DAUSA_MUSIC1_BOT",
             "required": true,
-            "value": ""
+            "value": "DAUSA_MUSIC1_BOT"
         },
         "SUPPORT": {
-            "description": "Fill with your support group username without @",
+            "description": "kalam_kranti",
             "required": true,
-            "value": "M8N_SUPPORT"
+            "value": "kalam_kranti"
         },
         "UPDATE": {
             "description": "Fill with your Update Channel username without @",
             "required": true,
-            "value": "M8N_OFFICIAL"
+            "value": "kalam_se"
         },
         "OWNER_USERNAME": {
             "description": "Fill with the Bot Owner Username without @",
             "required": true,
-            "value": "Its_romeoo"
+            "value": "LOKESH_DAUSA"
         },
         "BOT_NAME": {
             "description": "fill with telegram name of bot",
             "required": true,
-            "value": ""
+            "value": "BHARTI MUSIC"
         },
         "START_PIC": {
             "description": "Enter the telegraph link of an image or contact @M8N_SUPPORT",
-            "value": "https://telegra.ph/file/e3bbcfcf96e85553aff4a.jpg",
+            "value": "https://te.legra.ph/file/e715436ee380abcf8f6b1.jpg",
             "required": true
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
-            "value": ""
+            "value": "10778409"
         },
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": true,
-            "value": ""
+            "value": "2ba6205ba26d17c04642604df976609c"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "5058236569"
+            "value": "1236703127"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "5241941860:AAFaWANeuSQAxjA0c49s6-tF2ChEGD2Muls"
         },
         "MONGO_DB_URI": {
             "description": "fill with the mongodb url get from mongodb.cloud.com (don't use mine below !!)",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://Anon1025:Anon1025@fallen.mujw8.mongodb.net/Fallen?retryWrites=true&w=majority"
         }
     },
     "buildpacks": [
